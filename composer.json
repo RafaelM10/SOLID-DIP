@@ -1,0 +1,15 @@
+{
+    "name": "meira/mensageiro-dip",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael",
+            "email": "rafameira10@icloud.com"
+        }
+    ],
+    "require": {}
+}
